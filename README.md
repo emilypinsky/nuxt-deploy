@@ -1,5 +1,7 @@
 # demo-frontend
 
+## yo, what a great day to be alive!
+
 ## Build Setup
 
 ```bash
